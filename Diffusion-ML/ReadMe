@@ -2,7 +2,7 @@ Things to do:-
 1. Training takes 3 days. Need to optimize it.
    Long time because it has to rebuild graphs.
 
-2. Try to improve model accuracy to overcome th underprediction at high barrier potential.
+2. Try to improve model accuracy to overcome the underprediction at high barrier potential.
 
 3. Do DFT fine tuning.
 
